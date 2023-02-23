@@ -12,3 +12,4 @@ This document aims to list large open-source text datasets which can be used for
 | pile of law | 256 GB    | https://arxiv.org/abs/2207.00220 |https://huggingface.co/datasets/pile-of-law/pile-of-law |
 | Pushshift Reddit | 256 GB  | https://arxiv.org/abs/2001.08435 | https://files.pushshift.io/reddit/comments/ |
 | ROOTS corpus | 1.6 TB | https://openreview.net/forum?id=UoEw6KigkUn | https://huggingface.co/bigscience-data |
+| the stack | 3.1 TB | https://arxiv.org/abs/2211.15533 | https://www.bigcode-project.org/ |
