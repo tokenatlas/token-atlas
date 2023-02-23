@@ -5,10 +5,10 @@ This document aims to provide a comprehensive list of large open-source text dat
 
 # datasets
 
-| name        | size | link                                                    |
+| name        | size |   paper | link                                                    |
 |-------------|------|---------------------------------------------------------|
-| the pile    |   825 GB  | https://pile.eleuther.ai/                               |
-| c4 (en)     |  807 GB   | https://www.tensorflow.org/datasets/catalog/c4          |
-| pile of law | 256 GB    | https://huggingface.co/datasets/pile-of-law/pile-of-law |
-| Pushshift Reddit | 256 GB  | https://arxiv.org/abs/2001.08435 and https://files.pushshift.io/reddit/comments/ |
-| ROOTS corpus | 1.6 TB | https://openreview.net/forum?id=UoEw6KigkUn and https://huggingface.co/bigscience-data |
+| the pile    |   825 GB  | https://arxiv.org/abs/2101.00027 | https://pile.eleuther.ai/                               |
+| c4 (en)     |  807 GB   | https://arxiv.org/abs/1910.10683 | https://www.tensorflow.org/datasets/catalog/c4          |
+| pile of law | 256 GB    | https://arxiv.org/abs/2207.00220 |https://huggingface.co/datasets/pile-of-law/pile-of-law |
+| Pushshift Reddit | 256 GB  | https://arxiv.org/abs/2001.08435 | https://files.pushshift.io/reddit/comments/ |
+| ROOTS corpus | 1.6 TB | https://openreview.net/forum?id=UoEw6KigkUn | https://huggingface.co/bigscience-data |
